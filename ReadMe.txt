@@ -1,0 +1,2 @@
+I have solved this question using Fibonacci concept.
+Fibonacci was used becaus of the constraints provided. If I had followed regular path then the time complexity of the code would be disaster and could exceed execution time.
